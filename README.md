@@ -8,7 +8,7 @@ It is a Software Engineering Project aimed at developing a **House Rental System
 ### Authors:
 - **MD Tasnim Mahmud Fahim**
 - **Jakaria Saikat Dhrobo**
-- **MD Kowsar Islam**
+- **MD. Kowsar Islam**
 - **MD Al-Amin**
 
 ---
